@@ -1,0 +1,25 @@
+**Log on to codeastro.com for more projects!**
+
+**Database Name: HMS**
+
+**Developed by Aadil Raliya**
+
+**Hospital Management Projects**
+
+**Admin Login Details**
+
+Username: admin
+Password: admin
+
+**Doctor Login Details**
+
+Username: doctor
+Password: doctor
+
+**Patient Login Details**
+
+
+Username: patient
+Password: patient
+
+
